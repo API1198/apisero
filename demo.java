@@ -11,7 +11,8 @@ System.out.print("added from jenkins");System.out.print("added from jenkins");
 
 System.out.print("remote repo to remote repo");
 
-System.out.print("added from remote repository"); System.out.print("jenkins")
+System.out.print("added from remote repository");
+  System.out.print("jenkins")
  ;
 }
 
